@@ -79,7 +79,7 @@ This repository represents my complete learning journey through Harvard CS50x, f
 
 ## 📌 Author
 
-**Nazanin Khalesi**  
+**Fatemeh Khalesi**  
 Computer Science Student | Aspiring Software Engineer | Future Full-Stack Developer  
 
 ## ⭐ Note
