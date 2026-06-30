@@ -75,7 +75,7 @@ This repository represents my complete learning journey through Harvard CS50x, f
 - [ ] Week 7 — SQL  
 - [ ] Week 8 — Web Development  
 - [ ] Week 9 — Flask  
-- [ ] [ ] Week 10 — Final Project  
+- [ ] Week 10 — Final Project  
 
 ## 📌 Author
 
