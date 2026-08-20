@@ -12,9 +12,9 @@ This repository contains my **problem sets, projects, notes, and coding exercise
 
 | Week | Topic | Status | Started | Finished |
 |---|---|---|---|---|
-| Week 0 | Scratch & Basics | ✅ Complete | — | July 2026 |
-| Week 1 | C | ✅ Complete | July 2026 | August 2026 |
-| Week 2 | Arrays | ✅ Complete | August 2026 | **20 Aug 2026** |
+| Week 0 | Scratch & Basics | ✅ Complete | 11 May | 18 May |
+| Week 1 | C | ✅ Complete | 18 July | 31 July |
+| Week 2 | Arrays | ✅ Complete | 15 August | 20 Aug |
 | Week 3 | Algorithms | ⬜ In Progress | — | — |
 | Week 4 | Memory | ⬜ Not Started | — | — |
 | Week 5 | Data Structures | ⬜ Not Started | — | — |
@@ -24,7 +24,7 @@ This repository contains my **problem sets, projects, notes, and coding exercise
 | Week 9 | Flask | ⬜ Not Started | — | — |
 | Week 10 | Final Project | ⬜ Not Started | — | — |
 
-> **Started:** July 2026  
+> **Started:** 11 May 2026
 > **Current progress:** 3 / 11 stages completed  
 > **Latest milestone:** Week 2 — Arrays completed on 20 August 2026
 
